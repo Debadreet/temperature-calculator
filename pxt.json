@@ -1,0 +1,23 @@
+{
+    "name": "temperature calculator",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "devices": "*",
+        "bluetooth": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
